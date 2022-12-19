@@ -53,4 +53,6 @@ Control: This control .bam file was used for all experiments
 
 #### Chromosome Used: Human genome (version hg19)
 
-#### Packages Used: ChromHMM for annotaion, UCSC GenomeBrowser, Baum-Welsh algorithm, ChromHMM with BinarizeBam option to convert ChIP-seq profiles (bam files) into a table of 1 and 0 to create bins of the lenght of 200 bp, ChromHMM with LearnModel option to automatically detect parameters for N various genomic regions with the major histon marks and specific combinations
+#### Packages Used
+
+ChromHMM for annotaion, UCSC GenomeBrowser, Baum-Welsh algorithm, ChromHMM with BinarizeBam option to convert ChIP-seq profiles (bam files) into a table of 1 and 0 to create bins of the lenght of 200 bp, ChromHMM with LearnModel option to automatically detect parameters for N various genomic regions with the major histon marks and specific combinations
