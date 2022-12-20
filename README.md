@@ -33,6 +33,8 @@ hg18
 
 10
 
+The data for this project was downloaded from https://www.encodeproject.org/
+
 The following .bam files were used for the experiment
 
 • wgEncodeBroadHistoneHmecH3k09me3AlnRep1.bam
@@ -162,6 +164,12 @@ ln -s ~/bin/ChromHMM/CHROMSIZES
 ```bash
 cellmarkfiletable.txt
 ```
+
+The link to chromHMM tutorial can be found here
+
+https://www.genome.gov/Multimedia/Slides/ENCODE_ASHGTutorial_Oct2015/07_Ernst.pdf
+
+https://www.encodeproject.org/documents/d0a10470-b049-4da1-9de2-01449ddfa6a5/@@download/attachment/ChromHMM_tutorial.pdf
 
 ### References
 
