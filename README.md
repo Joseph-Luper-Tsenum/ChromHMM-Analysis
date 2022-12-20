@@ -162,3 +162,11 @@ ln -s ~/bin/ChromHMM/CHROMSIZES
 ```bash
 cellmarkfiletable.txt
 ```
+
+### References
+
+1. Ernst J, Kellis M. ChromHMM: automating chromatin-state discovery and characterization. Nature Methods, 9:215-216, 2012.
+
+2. Ernst J, Kellis M. Chromatin-state discovery and genome annotation with ChromHMM. Nature Protocols, 12:2478-2492, 2017.
+
+3. ENCODE Project Consortium. An integrated encyclopedia of DNA elements in the human genome. Nature. 2012 Sep 6;489(7414):57-74. PMID: 22955616; PMC: PMC3439153
