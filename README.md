@@ -15,15 +15,23 @@ Russian Federation
 
 ### Introduction
 
-#### Input Directory: Luperjoseph > ChromHMM
+#### Input Directory
 
-#### Output Directory: MYOUTPUT
+Luperjoseph > ChromHMM
+
+#### Output Directory 
+
+MYOUTPUT
 
 ### Types of Cells Used
 
-#### Assembly: hg18
+#### Assembly
 
-#### Number of States: 10
+hg18
+
+#### Number of States
+
+10
 
 The following .bam files were used for the experiment
 
@@ -51,7 +59,9 @@ Control: This control .bam file was used for all experiments
 
 • wgEncodeBroadHistoneHmecControlStdAlnRep1.bam
 
-#### Chromosome Used: Human genome (version hg19)
+#### Chromosome Used
+
+Human genome (version hg19)
 
 #### Packages Used
 
