@@ -17,7 +17,7 @@ Russian Federation
 
 #### Input Directory: Luperjoseph > ChromHMM
 
-####Output Directory: MYOUTPUT
+#### Output Directory: MYOUTPUT
 
 ### Types of Cells Used
 
@@ -55,4 +55,18 @@ Control: This control .bam file was used for all experiments
 
 #### Packages Used
 
-ChromHMM for annotaion, UCSC GenomeBrowser, Baum-Welsh algorithm, ChromHMM with BinarizeBam option to convert ChIP-seq profiles (bam files) into a table of 1 and 0 to create bins of the lenght of 200 bp, ChromHMM with LearnModel option to automatically detect parameters for N various genomic regions with the major histon marks and specific combinations
+ChromHMM for annotaion, UCSC GenomeBrowser, Baum-Welsh algorithm, ChromHMM with BinarizeBam option to convert ChIP-seq profiles (bam files) into a table of 1 and 0 to create bins of the lenght of 200 bp, ChromHMM with LearnModel option to automatically detect parameters for N various genomic regions with the major histon marks and specific combinations.
+
+### Results from ChromHMM
+
+                               Fig.1: (a) Shows emission parameters for Hmec_10 while (b) Shows Fold Enrichment for Hmec_10
+                          
+![image](https://user-images.githubusercontent.com/58364462/208551815-4abf4629-511f-44fc-aad1-685e1bb3fd44.png)
+
+
+
+#### Table with the Epigenetic States, their Features and Names
+
+This can be found in the attached pdf file
+
+
