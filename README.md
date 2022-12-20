@@ -130,7 +130,7 @@ Links to panels with profiles of histone modifications with epigenetic states
 • http://genome.ucsc.edu/s/Josephluper/Expanded.bed%20ChromHMM
 
 
-### List of Commands Used:
+### List of Commands Used
 
 ```bash
 cd ChromHMM
