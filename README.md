@@ -98,7 +98,7 @@ ChromHMM for annotaion, UCSC GenomeBrowser, Baum-Welsh algorithm, ChromHMM with 
 
 #### Table with the Epigenetic States, their Features and Names
 
-This can be found in the attached pdf file
+![now5](https://user-images.githubusercontent.com/58364462/208571327-de8730a1-bfc3-4176-b03d-aa8f9f705a13.png)
 
 
 ### Visualization in UCSC GenomeBrowser
