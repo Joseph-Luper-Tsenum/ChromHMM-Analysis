@@ -117,8 +117,7 @@ UCSC GenomeBrowser with various genomic regions and epigenetic states
 
 Links to panels with profiles of histone modifications with epigenetic states
 
-• http://genome.ucsc.edu/s/Josephluper/Histone%20Marks%20in%20CromHMM
-%20expanded.bed
+• http://genome.ucsc.edu/s/Josephluper/Histone%20Marks%20in%20CromHMM%20expanded.bed
 
 • http://genome.ucsc.edu/s/Josephluper/Histone%20Marks%20in%20CromHMM%20dense.bed
 
