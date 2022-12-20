@@ -33,7 +33,7 @@ hg18
 
 10
 
-The data for this project was downloaded from https://www.encodeproject.org/
+The ChIP-seq data for this project was downloaded from https://www.encodeproject.org/
 
 The following .bam files were used for the experiment
 
