@@ -59,9 +59,15 @@ ChromHMM for annotaion, UCSC GenomeBrowser, Baum-Welsh algorithm, ChromHMM with 
 
 ### Results from ChromHMM
 
-                               Fig.1: (a) Shows emission parameters for Hmec_10 while (b) Shows Fold Enrichment for Hmec_10
+                              The figure below shows the emission parameters for Hmec_10
                           
 ![image](https://user-images.githubusercontent.com/58364462/208551815-4abf4629-511f-44fc-aad1-685e1bb3fd44.png)
+
+
+                              The figure below shows Fold Enrichment for Hmec_10
+                              
+![image](https://user-images.githubusercontent.com/58364462/208552076-6345e433-e0bd-44ab-b973-1e3d8108260c.png)
+
 
 
 
