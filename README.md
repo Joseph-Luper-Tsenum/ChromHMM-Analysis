@@ -115,7 +115,7 @@ UCSC GenomeBrowser with various genomic regions and epigenetic states
 ![image](https://user-images.githubusercontent.com/58364462/208553231-fc7deb45-7a61-42aa-b455-45630b78aaad.png)
 
 
-### Visualization of Chromatin States from ChromHMM and corresponding Histone MarksLinks
+### Visualization of Chromatin States from ChromHMM and corresponding Histone Marks
 
 Links to panels with profiles of histone modifications with epigenetic states
 
