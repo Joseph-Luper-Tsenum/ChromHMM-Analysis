@@ -1,4 +1,4 @@
-# ChromeHMM Analysis
+# ChromHMM Analysis
 
 ### Determination of combination of histone marks that are characteristic of each of N different Epigenetic types by manually assigning to each of the N epigenetic types a possible biological function
 
